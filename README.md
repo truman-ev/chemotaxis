@@ -21,7 +21,7 @@ Lesson and resources by Art Simon and Raymond Chan.
 
 Samples of Student Work 
 -----------------------
- From ATC
+ From ATC <br>
  [Elena]() <br>
  [Truman]() <br>
  [Leto]() <br>
@@ -31,7 +31,7 @@ Samples of Student Work
  [Nico]() <br>
  [Giselle]() <br>
 
- From Lowell High School, SF, CA
+ From Lowell High School, SF, CA <br>
  [Patrick](https://patrickhu926.github.io/Chemotaxis/) <br>
  [Curtis](https://curtislee603.github.io/Chemotaxis/) <br>
  [Vivica](https://vivicaatran.github.io/Chemotaxis/) <br>
