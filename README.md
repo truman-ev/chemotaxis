@@ -22,14 +22,14 @@ Lesson and resources by Art Simon and Raymond Chan.
 Samples of Student Work 
 -----------------------
 from ATC
-Elena
-Truman
-Leto
-Melanie
-Rosa
-Amulya
-Nico
-Giselle
+[Elena]()
+[Truman]()
+[Leto]()
+[Melanie]()
+[Rosa]()
+[Amulya]()
+[Nico]()
+[Giselle]()
 
 
 
