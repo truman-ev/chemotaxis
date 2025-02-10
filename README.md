@@ -21,17 +21,17 @@ Lesson and resources by Art Simon and Raymond Chan.
 
 Samples of Student Work 
 -----------------------
- From ATC <br>
- [Elena]() <br>
- [Truman]() <br>
- [Leto]() <br>
- [Melanie]() <br>
- [Rosa]() <br>
- [Amulya]() <br>
- [Nico]() <br>
- [Giselle]() <br>
+ From ATC, Santa Fe, NM: <br>
+ [Elena] <br>
+ [Truman] <br>
+ [Leto] <br>
+ [Melanie] <br>
+ [Rosa] <br>
+ [Amulya] <br>
+ [Nico] <br>
+ [Giselle] <br>
 
- From Lowell High School, SF, CA <br>
+ From Lowell High School, San Francisco, CA: <br>
  [Patrick](https://patrickhu926.github.io/Chemotaxis/) <br>
  [Curtis](https://curtislee603.github.io/Chemotaxis/) <br>
  [Vivica](https://vivicaatran.github.io/Chemotaxis/) <br>
