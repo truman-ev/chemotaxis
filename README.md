@@ -19,9 +19,21 @@ You are required to try to have the bacteria move in a "biased random walk" towa
 
 Lesson and resources by Art Simon and Raymond Chan.
 
-Samples of Student Work from Lowell High School, SF, Ca
+Samples of Student Work 
 -----------------------
+from ATC
+Elena
+Truman
+Leto
+Melanie
+Rosa
+Amulya
+Nico
+Giselle
 
+
+
+from Lowell High School, SF, Ca
 [Patrick](https://patrickhu926.github.io/Chemotaxis/)   
 [Curtis](https://curtislee603.github.io/Chemotaxis/)   
 [Vivica](https://vivicaatran.github.io/Chemotaxis/)    
