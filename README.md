@@ -22,14 +22,14 @@ Lesson and resources by Art Simon and Raymond Chan.
 Samples of Student Work 
 -----------------------
 ## From ATC
-- [Elena]()
-- [Truman]()
-- [Leto]()
-- [Melanie]()
-- [Rosa]()
-- [Amulya]()
-- [Nico]()
-- [Giselle]()
+ [Elena]()
+ [Truman]()
+ [Leto]()
+ [Melanie]()
+ [Rosa]()
+ [Amulya]()
+ [Nico]()
+ [Giselle]()
 
 ## From Lowell High School, SF, CA
 - [Patrick](https://patrickhu926.github.io/Chemotaxis/)
