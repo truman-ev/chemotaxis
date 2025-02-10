@@ -21,27 +21,27 @@ Lesson and resources by Art Simon and Raymond Chan.
 
 Samples of Student Work 
 -----------------------
-## From ATC
- [Elena]()
- [Truman]()
- [Leto]()
- [Melanie]()
- [Rosa]()
- [Amulya]()
- [Nico]()
- [Giselle]()
+ From ATC
+ [Elena]() <br>
+ [Truman]() <br>
+ [Leto]() <br>
+ [Melanie]() <br>
+ [Rosa]() <br>
+ [Amulya]() <br>
+ [Nico]() <br>
+ [Giselle]() <br>
 
-## From Lowell High School, SF, CA
-- [Patrick](https://patrickhu926.github.io/Chemotaxis/)
-- [Curtis](https://curtislee603.github.io/Chemotaxis/)
-- [Vivica](https://vivicaatran.github.io/Chemotaxis/)
-- [Trinity](https://trinitywu.github.io/Chemotaxis/)
-- [Kang](https://kangryu.github.io/Chemotaxis/)
-- [Rishi](https://rinath-apcs.github.io/Chemotaxis/)
-- [Antonio](https://andzibmis.github.io/Chemotaxis/)
-- [Jasmine](https://jasmine-c-16.github.io/Chemotaxis/)
-- [Derek](https://dehuynh3.github.io/Chemotaxis/)
-- [Kelly](https://kellyye22.github.io/Chemotaxis/)
+ From Lowell High School, SF, CA
+ [Patrick](https://patrickhu926.github.io/Chemotaxis/) <br>
+ [Curtis](https://curtislee603.github.io/Chemotaxis/) <br>
+ [Vivica](https://vivicaatran.github.io/Chemotaxis/) <br>
+ [Trinity](https://trinitywu.github.io/Chemotaxis/) <br>
+ [Kang](https://kangryu.github.io/Chemotaxis/) <br>
+ [Rishi](https://rinath-apcs.github.io/Chemotaxis/) <br>
+ [Antonio](https://andzibmis.github.io/Chemotaxis/) <br>
+ [Jasmine](https://jasmine-c-16.github.io/Chemotaxis/) <br>
+ [Derek](https://dehuynh3.github.io/Chemotaxis/) <br>
+ [Kelly](https://kellyye22.github.io/Chemotaxis/) <br>
 
 
 
