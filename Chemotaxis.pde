@@ -14,7 +14,7 @@
  
  //int zX = 250;   //zombie x position
  int zY = 100;   //zombie y position
- 
+ int zX;
  
  int hX = 250;   //human x position
  int hY = 400;   //human y position
@@ -60,6 +60,14 @@
      hoard[i].show();        //calls move and show for each Zombie
    }
    
+   if( dist(hX, hY, zX, zY) < 20)
+   {
+     fill(255);
+     textSize(100);
+     textAlign(CENTER);              //this is meant to display the text once the human and zombie touch, but it does not work. the reference code is on slide 60 of the slideshow.
+     text("GAME", 250, 200);
+     text("OVER", 250, 300);
+   }
    
  }  
  
@@ -89,7 +97,7 @@
        zX-= (int)(Math.random()*5-2);
      }
      
-     if(zY < hY)
+     if(zY < hY)                                 //zombies move towards human
      {
        zY+= (int)(Math.random()*5-2);
      }
@@ -102,7 +110,7 @@
    void show()
    {
      fill(27, 54, 29);
-     ellipse(zX, zY, 20, 20);
+     ellipse(zX, zY, 20, 20);                //zombie
    }
  }    
  
